@@ -9,19 +9,19 @@ integrating fine-grained part-of-speech analysis and hierarchical interactive co
 This approach leverages richer linguistic features, establishes a triplet knowledge fusion mechanism, and enables
 mutual interaction between sentiment elements for enhanced extraction.
 
-![Task Example](src\aste.png)
+![Task Example](src/aste.png)
 
 ## Experimentual Dataset
 
-![Dataset](src\dataset.png)
+![Dataset](src/dataset.png)
 
 ## Experimentual Result ASTE-DATA-V1
 The main results of ASTE-DATA-V1 are listed in the table below. The detailed analysis is available in the paper.
-![Result](src\result1.png)
+![Result](src/result1.png)
 
 ## Experimentual Result ASTE-DATA-V2
 The main results of ASTE-DATA-V2 are listed in the table below. The detailed analysis is available in the paper.
-![Result](src\result2.png)
+![Result](src/result2.png)
 
 ## Conda Configuration
 In this section, we will give details on how to configure FPHICL conda virtual environment and give specific installation
